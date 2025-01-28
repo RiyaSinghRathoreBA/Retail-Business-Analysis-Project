@@ -29,21 +29,27 @@ Segments included high-value customers, occasional buyers, and bulk purchasers, 
 
 The project successfully provided actionable insights:
 
-### From EDA: Key trends such as seasonal demand and top-performing products can guide inventory planning and promotional activities.
+### From EDA: 
+Key trends such as seasonal demand and top-performing products can guide inventory planning and promotional activities.
 
-### From MBA: Frequent item combinations like "Tea" and "Biscuits" enable strategic product placement and bundled promotions.
+### From MBA: 
+Frequent item combinations enable strategic product placement and bundled promotions.
 
-### From Customer Segmentation: Understanding customer groups helps in personalizing marketing efforts and enhancing customer retention.
+### From Customer Segmentation: 
+Understanding customer groups helps in personalizing marketing efforts and enhancing customer retention.
 
 These analyses demonstrate the value of leveraging data to drive business decisions, improve customer experience, and boost profitability.
 
 ## Repository Contents
 
-### EDA Notebook: Contains code and visualizations for sales trends, customer behavior, and product analysis.
+### EDA Notebook: 
+Contains code and visualizations for sales trends, customer behavior, and product analysis.
 
-### MBA Notebook: Implements the Apriori algorithm and extracts actionable association rules.
+### MBA Notebook: 
+Implements the Apriori algorithm and extracts actionable association rules.
 
-### Customer Segmentation Notebook: Clustering analysis to group customers by purchasing patterns.
+### Customer Segmentation Notebook: 
+Clustering analysis to group customers by purchasing patterns.
 
 This repository provides a comprehensive approach to retail data analysis, showcasing how businesses can utilize data-driven insights to achieve operational excellence and increased profitability.
 
